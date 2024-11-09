@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972091484849",
+    "project_id": "doto-d5425",
+    "storage_bucket": "doto-d5425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972091484849:android:aa55118523961dbedf9090",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTm-hpOX9M4ZAH53-A72tUWmqI1cOauz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
